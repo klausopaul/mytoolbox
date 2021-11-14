@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Toolbox",
+    "description": "",
+    "home_page_url": "https://klausopaul.github.io/gh-pages",
+    "feed_url": "https://klausopaul.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Klaus"
+    },
+    "items": [
+        {
+            "id": "https://klausopaul.github.io/gh-pages/heading-of-the-post.html",
+            "url": "https://klausopaul.github.io/gh-pages/heading-of-the-post.html",
+            "title": "Hello World!",
+            "summary": "Hello world! From GitHub Pages to the world.",
+            "content_html": "<p>Hello world!</p>\n<p>From GitHub Pages to the world.</p>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-13T23:12:27-05:00",
+            "date_modified": "2021-11-14T16:16:31-05:00"
+        }
+    ]
+}
