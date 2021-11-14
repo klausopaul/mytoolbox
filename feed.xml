@@ -3,31 +3,10 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/gh-pages" />
-    <updated>2021-11-14T16:16:31-05:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/gh-pages</id>
 
-    <entry>
-        <title>Hello World!</title>
-        <author>
-            <name>Klaus</name>
-        </author>
-        <link href="https://klausopaul.github.io/gh-pages/heading-of-the-post.html"/>
-        <id>https://klausopaul.github.io/gh-pages/heading-of-the-post.html</id>
-
-        <updated>2021-11-14T16:16:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello world! From GitHub Pages to the world.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello world!</p>
-<p>From GitHub Pages to the world.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
