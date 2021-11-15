@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/stakeholder-analysis-case.html",
+            "url": "https://klausopaul.github.io/mytoolbox/stakeholder-analysis-case.html",
+            "title": "Stakeholder analysis - C.A.S.E.",
+            "summary": " C Categorize (i.e., roles) A Analyze (i.e., intend/influence) S Synergize (i.e., expectations) E Energize (i.e., alignment) ",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.8726%;\">C</td>\n<td style=\"width: 82.1274%;\">Categorize (i.e., roles)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">A</td>\n<td style=\"width: 82.1274%;\">Analyze (i.e., intend/influence)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">S</td>\n<td style=\"width: 82.1274%;\">Synergize (i.e., expectations)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">E</td>\n<td style=\"width: 82.1274%;\">Energize (i.e., alignment)</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Acronyms"
+            ],
+            "date_published": "2021-11-14T23:07:38-05:00",
+            "date_modified": "2021-11-14T23:08:48-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html",
             "url": "https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html",
             "title": "Big Five Personality Traits - O.C.E.A.N.",
@@ -27,7 +42,7 @@
         {
             "id": "https://klausopaul.github.io/mytoolbox/halt.html",
             "url": "https://klausopaul.github.io/mytoolbox/halt.html",
-            "title": "H.A.L.T.",
+            "title": "Decision making - H.A.L.T.",
             "summary": "Take a look at each of the letters below. If any apply, STOP before making any decision. ",
             "content_html": "<p>Take a look at each of the letters below. If any apply, STOP before making any decision.</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 13.9653%;\">H</td>\n<td style=\"width: 86.0347%;\">Hungry</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">A</td>\n<td style=\"width: 86.0347%;\">Angry</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">L</td>\n<td style=\"width: 86.0347%;\">Lonely</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">T</td>\n<td style=\"width: 86.0347%;\">Tired</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "author": {
@@ -37,12 +52,12 @@
                    "Acronyms"
             ],
             "date_published": "2021-11-14T22:46:21-05:00",
-            "date_modified": "2021-11-14T22:48:10-05:00"
+            "date_modified": "2021-11-14T23:07:53-05:00"
         },
         {
             "id": "https://klausopaul.github.io/mytoolbox/scarf.html",
             "url": "https://klausopaul.github.io/mytoolbox/scarf.html",
-            "title": "S.C.A.R.F.",
+            "title": "Communication filters - S.C.A.R.F.",
             "summary": "A good acronym to remember some things that can help when managing, communicating or collaborating with people. SCARF represents the different types of \"filters\" that happen when a message is sent across from one person to another (or to a group of persons). ",
             "content_html": "<p>A good acronym to remember some things that can help when managing, communicating or collaborating with people.</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 14.11%;\">S</td>\n<td style=\"width: 85.89%;\">Status</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">C</td>\n<td style=\"width: 85.89%;\">Certainty</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">A</td>\n<td style=\"width: 85.89%;\">Autonomy</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">R</td>\n<td style=\"width: 85.89%;\">Relatedness</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">F</td>\n<td style=\"width: 85.89%;\">Fairness</td>\n</tr>\n</tbody>\n</table>\n<p>SCARF represents the different types of \"filters\" that happen when a message is sent across from one person to another (or to a group of persons).</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/4/SCARF-filter.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-2xl.png 1600w\"  alt=\"SCARF Filter\" width=\"341\" height=\"591\"></figure>",
             "author": {
@@ -52,12 +67,12 @@
                    "Acronyms"
             ],
             "date_published": "2021-11-14T22:37:54-05:00",
-            "date_modified": "2021-11-14T22:48:15-05:00"
+            "date_modified": "2021-11-14T23:08:11-05:00"
         },
         {
             "id": "https://klausopaul.github.io/mytoolbox/vuca.html",
             "url": "https://klausopaul.github.io/mytoolbox/vuca.html",
-            "title": "V.U.C.A.",
+            "title": "Environment - V.U.C.A.",
             "summary": "This is acronym to help you with managing the environment where you are working. In any working environment, 4 things happen: What can we do to mitigate V.U.C.A? Vision reduces volatility Risk management reduces uncertainty \"Chunking\" reduces the complexity to manageable sizes Clarity reduces the&hellip;",
             "content_html": "<p>This is acronym to help you with managing the environment where you are working.</p>\n<p>In any working environment, 4 things happen:</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">V</td>\n<td style=\"width: 88.9291%; height: 49px;\">Volatile</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">U</td>\n<td style=\"width: 88.9291%; height: 49px;\">Uncertainty</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">C</td>\n<td style=\"width: 88.9291%; height: 49px;\">Complex</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">A</td>\n<td style=\"width: 88.9291%; height: 49px;\">Ambiguous</td>\n</tr>\n</tbody>\n</table>\n<p>What can we do to mitigate V.U.C.A?</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 37.8437%;\">Vision</td>\n<td style=\"width: 62.1563%;\">reduces volatility</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">Risk management</td>\n<td style=\"width: 62.1563%;\">reduces uncertainty</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">\"Chunking\"</td>\n<td style=\"width: 62.1563%;\">reduces the complexity to manageable sizes</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">Clarity</td>\n<td style=\"width: 62.1563%;\">reduces the ambiguity</td>\n</tr>\n</tbody>\n</table>",
             "author": {
@@ -67,12 +82,12 @@
                    "Acronyms"
             ],
             "date_published": "2021-11-14T22:31:41-05:00",
-            "date_modified": "2021-11-14T22:48:19-05:00"
+            "date_modified": "2021-11-14T23:08:26-05:00"
         },
         {
             "id": "https://klausopaul.github.io/mytoolbox/great.html",
             "url": "https://klausopaul.github.io/mytoolbox/great.html",
-            "title": "G.R.E.A.T.",
+            "title": "Effective meetings - G.R.E.A.T.",
             "summary": "Here's another acronym to remember what makes for a great meeting. ",
             "content_html": "<p>Here's another acronym to remember what makes for a <em>great</em> meeting.</p>\n<table style=\"border-collapse: collapse; width: 104.486%; height: 100%; border-style: none;\" border=\"1\" cellspacing=\"2px\">\n<tbody>\n<tr>\n<td style=\"width: 6.94668%;\">G</td>\n<td style=\"width: 27.6743%;\">GOAL</td>\n<td style=\"width: 67.0337%;\">Make decisions, mobilize people</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">R</td>\n<td style=\"width: 27.6743%;\">ROLES</td>\n<td style=\"width: 67.0337%;\">Who will be the time, the scriber, the devil's advocate</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">E</td>\n<td style=\"width: 27.6743%;\">EXPECTED OUTCOME</td>\n<td style=\"width: 67.0337%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">A</td>\n<td style=\"width: 27.6743%;\">AGENDA</td>\n<td style=\"width: 67.0337%;\">How to get (steps) to the outcome</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">T</td>\n<td style=\"width: 27.6743%;\">TIME</td>\n<td style=\"width: 67.0337%;\">Realistic time to discus and achieve outcome</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "author": {
@@ -82,7 +97,7 @@
                    "Acronyms"
             ],
             "date_published": "2021-11-14T22:03:58-05:00",
-            "date_modified": "2021-11-14T22:48:24-05:00"
+            "date_modified": "2021-11-14T23:08:40-05:00"
         }
     ]
 }
