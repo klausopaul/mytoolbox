@@ -3,10 +3,226 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2021-11-14T22:48:24-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Five Big Personality Traits - O.C.E.A.N.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T22:48:05-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>H.A.L.T.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/halt.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/halt.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T22:48:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Take a look at each of the letters below. If any apply, STOP before making any decision. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Take a look at each of the letters below. If any apply, STOP before making any decision.</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 13.9653%;">H</td>
+<td style="width: 86.0347%;">Hungry</td>
+</tr>
+<tr>
+<td style="width: 13.9653%;">A</td>
+<td style="width: 86.0347%;">Angry</td>
+</tr>
+<tr>
+<td style="width: 13.9653%;">L</td>
+<td style="width: 86.0347%;">Lonely</td>
+</tr>
+<tr>
+<td style="width: 13.9653%;">T</td>
+<td style="width: 86.0347%;">Tired</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>S.C.A.R.F.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/scarf.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/scarf.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T22:48:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A good acronym to remember some things that can help when managing, communicating or collaborating with people. SCARF represents the different types of "filters" that happen when a message is sent across from one person to another (or to a group of persons). 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A good acronym to remember some things that can help when managing, communicating or collaborating with people.</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 14.11%;">S</td>
+<td style="width: 85.89%;">Status</td>
+</tr>
+<tr>
+<td style="width: 14.11%;">C</td>
+<td style="width: 85.89%;">Certainty</td>
+</tr>
+<tr>
+<td style="width: 14.11%;">A</td>
+<td style="width: 85.89%;">Autonomy</td>
+</tr>
+<tr>
+<td style="width: 14.11%;">R</td>
+<td style="width: 85.89%;">Relatedness</td>
+</tr>
+<tr>
+<td style="width: 14.11%;">F</td>
+<td style="width: 85.89%;">Fairness</td>
+</tr>
+</tbody>
+</table>
+<p>SCARF represents the different types of "filters" that happen when a message is sent across from one person to another (or to a group of persons).</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/4/SCARF-filter.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-2xl.png 1600w"  alt="SCARF Filter" width="341" height="591"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>V.U.C.A.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/vuca.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/vuca.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T22:48:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is acronym to help you with managing the environment where you are working. In any working environment, 4 things happen: What can we do to mitigate V.U.C.A? Vision reduces volatility Risk management reduces uncertainty "Chunking" reduces the complexity to manageable sizes Clarity reduces the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is acronym to help you with managing the environment where you are working.</p>
+<p>In any working environment, 4 things happen:</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr style="height: 49px;">
+<td style="width: 11.0709%; height: 49px;">V</td>
+<td style="width: 88.9291%; height: 49px;">Volatile</td>
+</tr>
+<tr style="height: 49px;">
+<td style="width: 11.0709%; height: 49px;">U</td>
+<td style="width: 88.9291%; height: 49px;">Uncertainty</td>
+</tr>
+<tr style="height: 49px;">
+<td style="width: 11.0709%; height: 49px;">C</td>
+<td style="width: 88.9291%; height: 49px;">Complex</td>
+</tr>
+<tr style="height: 49px;">
+<td style="width: 11.0709%; height: 49px;">A</td>
+<td style="width: 88.9291%; height: 49px;">Ambiguous</td>
+</tr>
+</tbody>
+</table>
+<p>What can we do to mitigate V.U.C.A?</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 37.8437%;">Vision</td>
+<td style="width: 62.1563%;">reduces volatility</td>
+</tr>
+<tr>
+<td style="width: 37.8437%;">Risk management</td>
+<td style="width: 62.1563%;">reduces uncertainty</td>
+</tr>
+<tr>
+<td style="width: 37.8437%;">"Chunking"</td>
+<td style="width: 62.1563%;">reduces the complexity to manageable sizes</td>
+</tr>
+<tr>
+<td style="width: 37.8437%;">Clarity</td>
+<td style="width: 62.1563%;">reduces the ambiguity</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>G.R.E.A.T.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/great.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/great.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T22:48:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Here's another acronym to remember what makes for a great meeting. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Here's another acronym to remember what makes for a <em>great</em> meeting.</p>
+<table style="border-collapse: collapse; width: 104.486%; height: 100%; border-style: none;" border="1" cellspacing="2px">
+<tbody>
+<tr>
+<td style="width: 6.94668%;">G</td>
+<td style="width: 27.6743%;">GOAL</td>
+<td style="width: 67.0337%;">Make decisions, mobilize people</td>
+</tr>
+<tr>
+<td style="width: 6.94668%;">R</td>
+<td style="width: 27.6743%;">ROLES</td>
+<td style="width: 67.0337%;">Who will be the time, the scriber, the devil's advocate</td>
+</tr>
+<tr>
+<td style="width: 6.94668%;">E</td>
+<td style="width: 27.6743%;">EXPECTED OUTCOME</td>
+<td style="width: 67.0337%;"> </td>
+</tr>
+<tr>
+<td style="width: 6.94668%;">A</td>
+<td style="width: 27.6743%;">AGENDA</td>
+<td style="width: 67.0337%;">How to get (steps) to the outcome</td>
+</tr>
+<tr>
+<td style="width: 6.94668%;">T</td>
+<td style="width: 27.6743%;">TIME</td>
+<td style="width: 67.0337%;">Realistic time to discus and achieve outcome</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
