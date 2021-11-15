@@ -3,12 +3,98 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-14T23:08:48-05:00</updated>
+    <updated>2021-11-14T23:12:55-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Creating a blueprint - P.O.T.I.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/creating-a-blueprint-poti.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/creating-a-blueprint-poti.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T23:12:55-05:00</updated>
+            <summary>
+                <![CDATA[
+                    When creating a blueprint be on the lookout for these 4 items that influence its creation: P People O Organization T Technology I Information 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When creating a blueprint be on the lookout for these 4 items that influence its creation:</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 20.767%;">P</td>
+<td style="width: 79.233%;">People</td>
+</tr>
+<tr>
+<td style="width: 20.767%;">O</td>
+<td style="width: 79.233%;">Organization</td>
+</tr>
+<tr>
+<td style="width: 20.767%;">T</td>
+<td style="width: 79.233%;">Technology</td>
+</tr>
+<tr>
+<td style="width: 20.767%;">I</td>
+<td style="width: 79.233%;">Information</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Expressing outcomes of a capability - M.E.D.I.C.</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/expressing-outcomes-of-a-capability-medic.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/expressing-outcomes-of-a-capability-medic.html</id>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-14T23:11:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    When expressing the outcomes of a capability, they can often be categorized in the following buckets: M Maintain E Eliminate D Decrease I Increase C Create 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When expressing the outcomes of a capability, they can often be categorized in the following buckets:</p>
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 15.5572%;">M</td>
+<td style="width: 84.4428%;">Maintain</td>
+</tr>
+<tr>
+<td style="width: 15.5572%;">E</td>
+<td style="width: 84.4428%;">Eliminate</td>
+</tr>
+<tr>
+<td style="width: 15.5572%;">D</td>
+<td style="width: 84.4428%;">Decrease</td>
+</tr>
+<tr>
+<td style="width: 15.5572%;">I</td>
+<td style="width: 84.4428%;">Increase</td>
+</tr>
+<tr>
+<td style="width: 15.5572%;">C</td>
+<td style="width: 84.4428%;">Create</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Stakeholder analysis - C.A.S.E.</title>
         <author>
