@@ -12,7 +12,9 @@
         {
             "id": "https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html",
             "url": "https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html",
-            "title": "Five Big Personality Traits - O.C.E.A.N.",
+            "title": "Big Five Personality Traits - O.C.E.A.N.",
+            "summary": " O Openness to experience (inventive/curious vs. consistent/cautious) C Conscientiousness (efficient/organized vs. easy-going/careless) E Extraversion (outgoing/energetic vs. solitary/reserved) A Agreeableness (friendly/compassionate vs. challenging/detached) N Neuroticism (sensitive/nervous vs. secure/confident) More on this on this website: https://www.wikiwand.com/en/Big_Five_personality_traits ",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 10.0579%; height: 49px;\">O</td>\n<td style=\"width: 89.9421%; height: 49px;\">Openness to experience (inventive/curious vs. consistent/cautious)</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 10.0579%; height: 49px;\">C</td>\n<td style=\"width: 89.9421%; height: 49px;\">Conscientiousness (efficient/organized vs. easy-going/careless)</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 10.0579%; height: 49px;\">E</td>\n<td style=\"width: 89.9421%; height: 49px;\">Extraversion (outgoing/energetic vs. solitary/reserved)</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 10.0579%; height: 49px;\">A</td>\n<td style=\"width: 89.9421%; height: 49px;\">Agreeableness (friendly/compassionate vs. challenging/detached)</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 10.0579%; height: 49px;\">N</td>\n<td style=\"width: 89.9421%; height: 49px;\">Neuroticism (sensitive/nervous vs. secure/confident)</td>\n</tr>\n</tbody>\n</table>\n<p>More on this on this website: <a href=\"https://www.wikiwand.com/en/Big_Five_personality_traits\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.wikiwand.com/en/Big_Five_personality_traits</a> </p>",
             "author": {
                 "name": "Klaus"
             },
@@ -20,7 +22,7 @@
                    "Acronyms"
             ],
             "date_published": "2021-11-14T22:48:05-05:00",
-            "date_modified": "2021-11-14T22:48:05-05:00"
+            "date_modified": "2021-11-14T22:53:36-05:00"
         },
         {
             "id": "https://klausopaul.github.io/mytoolbox/halt.html",
