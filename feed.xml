@@ -3,12 +3,93 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-14T23:12:55-05:00</updated>
+    <updated>2021-11-15T19:40:59-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Agile methodologies and the different phases in software development</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/agile-methodologies.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/agile-methodologies.html</id>
+            <category term="agile"/>
+
+        <updated>2021-11-15T19:40:59-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/11//agile-methodologies.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-2xl.png 1600w"  alt="" width="1874" height="760"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why do we create documentation?</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html</id>
+            <category term="business analysis"/>
+
+        <updated>2021-11-15T18:50:07-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Consider these points when documenting. The end goal: living documentation Why What When Where Who How How should the documentation be created? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Consider these points when documenting. The end goal: living documentation</p>
+<p class="msg msg--highlight ">Why</p>
+<ul>
+<li>Why to document?</li>
+<li>How much does it cost to document?</li>
+</ul>
+<p class="msg msg--highlight ">What</p>
+<ul>
+<li>What kind of documentation is needed?
+<ul>
+<li>Tutorials</li>
+<li>Business rules</li>
+<li>User guides</li>
+<li>Functional</li>
+<li>Technical</li>
+<li>Business</li>
+</ul>
+</li>
+</ul>
+<p class="msg msg--highlight ">When</p>
+<ul>
+<li>When do we need to create the documentation?</li>
+</ul>
+<p class="msg msg--highlight ">Where</p>
+<ul>
+<li>Where do we store the documentation created?</li>
+</ul>
+<p class="msg msg--highlight ">Who</p>
+<ul>
+<li>Who creates the documentation?</li>
+<li>Who is the target audience?
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Different readers (stakeholders, for example) have different needs and may required distinct levels of detail.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p class="msg msg--highlight ">How</p>
+<ul>
+<li>How should the documentation be created?</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Creating a blueprint - P.O.T.I.</title>
         <author>

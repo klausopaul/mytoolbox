@@ -5,6 +5,14 @@
 <loc>https://klausopaul.github.io/mytoolbox/</loc>
 </url>
 <url>
+<loc>https://klausopaul.github.io/mytoolbox/agile-methodologies.html</loc>
+<lastmod>2021-11-15T19:40:59-05:00</lastmod>
+<image:image>
+<image:loc>https://klausopaul.github.io/mytoolbox/media/posts/11//agile-methodologies.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://klausopaul.github.io/mytoolbox/creating-a-blueprint-poti.html</loc>
 <lastmod>2021-11-14T23:12:55-05:00</lastmod>
 </url>
@@ -39,5 +47,9 @@
 <url>
 <loc>https://klausopaul.github.io/mytoolbox/vuca.html</loc>
 <lastmod>2021-11-14T23:08:26-05:00</lastmod>
+</url>
+<url>
+<loc>https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html</loc>
+<lastmod>2021-11-15T18:50:07-05:00</lastmod>
 </url>
 </urlset>
