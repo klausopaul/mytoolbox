@@ -10,6 +10,54 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/traditional-software-development.html",
+            "url": "https://klausopaul.github.io/mytoolbox/traditional-software-development.html",
+            "title": "Traditional software development",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/19/traditional-versus-agile-software-development.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/19/responsive/traditional-versus-agile-software-development-2xl.jpg 1600w\"  alt=\"\" width=\"1300\" height=\"329\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Diagrams",
+                   "Business Analysis"
+            ],
+            "date_published": "2021-11-15T20:04:15-05:00",
+            "date_modified": "2021-11-15T20:04:53-05:00"
+        },
+        {
+            "id": "https://klausopaul.github.io/mytoolbox/thinking-modes-and-path-to-action.html",
+            "url": "https://klausopaul.github.io/mytoolbox/thinking-modes-and-path-to-action.html",
+            "title": "Thinking modes and path to action",
+            "summary": "For more details on this, check Thinking, Fast and Slow. ",
+            "content_html": "<p>For more details on this, check <a href=\"https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow\" target=\"_blank\" rel=\"noopener noreferrer\">Thinking, Fast and Slow</a>.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/18/thinking-modes-and-path-to-action.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/18/responsive/thinking-modes-and-path-to-action-2xl.jpg 1600w\"  alt=\"\" width=\"702\" height=\"715\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Techniques",
+                   "Learning",
+                   "Business Analysis"
+            ],
+            "date_published": "2021-11-15T19:59:48-05:00",
+            "date_modified": "2021-11-15T20:05:07-05:00"
+        },
+        {
+            "id": "https://klausopaul.github.io/mytoolbox/quotients-of-intelligence.html",
+            "url": "https://klausopaul.github.io/mytoolbox/quotients-of-intelligence.html",
+            "title": "Quotients of intelligence",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/17/quotients-of-intelligence.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/17/responsive/quotients-of-intelligence-2xl.jpg 1600w\"  alt=\"\" width=\"752\" height=\"815\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Learning",
+                   "Business Analysis",
+                   "Acronyms"
+            ],
+            "date_published": "2021-11-15T19:58:52-05:00",
+            "date_modified": "2021-11-15T20:05:23-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/program-management.html",
             "url": "https://klausopaul.github.io/mytoolbox/program-management.html",
             "title": "Program management",
@@ -110,51 +158,6 @@
             ],
             "date_published": "2021-11-15T18:50:07-05:00",
             "date_modified": "2021-11-15T18:50:07-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/creating-a-blueprint-poti.html",
-            "url": "https://klausopaul.github.io/mytoolbox/creating-a-blueprint-poti.html",
-            "title": "Creating a blueprint - P.O.T.I.",
-            "summary": "When creating a blueprint be on the lookout for these 4 items that influence its creation: P People O Organization T Technology I Information ",
-            "content_html": "<p>When creating a blueprint be on the lookout for these 4 items that influence its creation:</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.767%;\">P</td>\n<td style=\"width: 79.233%;\">People</td>\n</tr>\n<tr>\n<td style=\"width: 20.767%;\">O</td>\n<td style=\"width: 79.233%;\">Organization</td>\n</tr>\n<tr>\n<td style=\"width: 20.767%;\">T</td>\n<td style=\"width: 79.233%;\">Technology</td>\n</tr>\n<tr>\n<td style=\"width: 20.767%;\">I</td>\n<td style=\"width: 79.233%;\">Information</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T23:11:43-05:00",
-            "date_modified": "2021-11-14T23:12:55-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/expressing-outcomes-of-a-capability-medic.html",
-            "url": "https://klausopaul.github.io/mytoolbox/expressing-outcomes-of-a-capability-medic.html",
-            "title": "Expressing outcomes of a capability - M.E.D.I.C.",
-            "summary": "When expressing the outcomes of a capability, they can often be categorized in the following buckets: M Maintain E Eliminate D Decrease I Increase C Create ",
-            "content_html": "<p>When expressing the outcomes of a capability, they can often be categorized in the following buckets:</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 15.5572%;\">M</td>\n<td style=\"width: 84.4428%;\">Maintain</td>\n</tr>\n<tr>\n<td style=\"width: 15.5572%;\">E</td>\n<td style=\"width: 84.4428%;\">Eliminate</td>\n</tr>\n<tr>\n<td style=\"width: 15.5572%;\">D</td>\n<td style=\"width: 84.4428%;\">Decrease</td>\n</tr>\n<tr>\n<td style=\"width: 15.5572%;\">I</td>\n<td style=\"width: 84.4428%;\">Increase</td>\n</tr>\n<tr>\n<td style=\"width: 15.5572%;\">C</td>\n<td style=\"width: 84.4428%;\">Create</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T23:10:54-05:00",
-            "date_modified": "2021-11-14T23:11:01-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/stakeholder-analysis-case.html",
-            "url": "https://klausopaul.github.io/mytoolbox/stakeholder-analysis-case.html",
-            "title": "Stakeholder analysis - C.A.S.E.",
-            "summary": " C Categorize (i.e., roles) A Analyze (i.e., intend/influence) S Synergize (i.e., expectations) E Energize (i.e., alignment) ",
-            "content_html": "<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.8726%;\">C</td>\n<td style=\"width: 82.1274%;\">Categorize (i.e., roles)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">A</td>\n<td style=\"width: 82.1274%;\">Analyze (i.e., intend/influence)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">S</td>\n<td style=\"width: 82.1274%;\">Synergize (i.e., expectations)</td>\n</tr>\n<tr>\n<td style=\"width: 17.8726%;\">E</td>\n<td style=\"width: 82.1274%;\">Energize (i.e., alignment)</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T23:07:38-05:00",
-            "date_modified": "2021-11-14T23:08:48-05:00"
         }
     ]
 }
