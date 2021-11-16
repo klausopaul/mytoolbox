@@ -3,12 +3,30 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-15T19:53:50-05:00</updated>
+    <updated>2021-11-15T19:57:24-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Program management</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/program-management.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/program-management.html</id>
+            <category term="Business Analysis"/>
+            <category term="Acronyms"/>
+
+        <updated>2021-11-15T19:56:33-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/16//program-management.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/16//responsive/program-management-2xl.jpg 1600w"  alt="" width="801" height="651"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The 4 major stages in delivery value to clients</title>
         <author>
@@ -36,7 +54,7 @@
         <id>https://klausopaul.github.io/mytoolbox/learning-process-from-newbie-to-master.html</id>
             <category term="Learning"/>
 
-        <updated>2021-11-15T19:51:02-05:00</updated>
+        <updated>2021-11-15T19:57:24-05:00</updated>
             <summary>
                 <![CDATA[
                     This image is not mine, but it is pretty descriptive. 
@@ -45,7 +63,7 @@
         <content type="html">
             <![CDATA[
                 <p>This image is not mine, but it is pretty descriptive.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/14/learning-process.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-2xl.png 1600w"  alt="" width="2904" height="2524"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/14/learning-process.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-2xl.jpg 1600w"  alt="" width="2904" height="2524"></figure>
             ]]>
         </content>
     </entry>
@@ -287,51 +305,6 @@
 </tr>
 </tbody>
 </table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Big Five Personality Traits - O.C.E.A.N.</title>
-        <author>
-            <name>Klaus</name>
-        </author>
-        <link href="https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html"/>
-        <id>https://klausopaul.github.io/mytoolbox/five-big-personality-traits-ocean.html</id>
-            <category term="Acronyms"/>
-
-        <updated>2021-11-14T22:53:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                     O Openness to experience (inventive/curious vs. consistent/cautious) C Conscientiousness (efficient/organized vs. easy-going/careless) E Extraversion (outgoing/energetic vs. solitary/reserved) A Agreeableness (friendly/compassionate vs. challenging/detached) N Neuroticism (sensitive/nervous vs. secure/confident) More on this on this website: https://www.wikiwand.com/en/Big_Five_personality_traits 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: none;" border="1">
-<tbody>
-<tr style="height: 49px;">
-<td style="width: 10.0579%; height: 49px;">O</td>
-<td style="width: 89.9421%; height: 49px;">Openness to experience (inventive/curious vs. consistent/cautious)</td>
-</tr>
-<tr style="height: 49px;">
-<td style="width: 10.0579%; height: 49px;">C</td>
-<td style="width: 89.9421%; height: 49px;">Conscientiousness (efficient/organized vs. easy-going/careless)</td>
-</tr>
-<tr style="height: 49px;">
-<td style="width: 10.0579%; height: 49px;">E</td>
-<td style="width: 89.9421%; height: 49px;">Extraversion (outgoing/energetic vs. solitary/reserved)</td>
-</tr>
-<tr style="height: 49px;">
-<td style="width: 10.0579%; height: 49px;">A</td>
-<td style="width: 89.9421%; height: 49px;">Agreeableness (friendly/compassionate vs. challenging/detached)</td>
-</tr>
-<tr style="height: 49px;">
-<td style="width: 10.0579%; height: 49px;">N</td>
-<td style="width: 89.9421%; height: 49px;">Neuroticism (sensitive/nervous vs. secure/confident)</td>
-</tr>
-</tbody>
-</table>
-<p>More on this on this website: <a href="https://www.wikiwand.com/en/Big_Five_personality_traits" target="_blank" rel="noopener noreferrer">https://www.wikiwand.com/en/Big_Five_personality_traits</a> </p>
             ]]>
         </content>
     </entry>
