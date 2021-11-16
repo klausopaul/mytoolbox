@@ -10,6 +10,64 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/the-4-major-stages-in-delivery-value-to-clients.html",
+            "url": "https://klausopaul.github.io/mytoolbox/the-4-major-stages-in-delivery-value-to-clients.html",
+            "title": "The 4 major stages in delivery value to clients",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/15//phases-in-the-development-of-a-product.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-xs.jpg 300w ,https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-sm.jpg 480w ,https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-md.jpg 768w ,https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-lg.jpg 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-xl.jpg 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/15//responsive/phases-in-the-development-of-a-product-2xl.jpg 1600w\"  alt=\"\" width=\"1241\" height=\"849\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Business Analysis",
+                   "Agile"
+            ],
+            "date_published": "2021-11-15T19:52:53-05:00",
+            "date_modified": "2021-11-15T19:53:50-05:00"
+        },
+        {
+            "id": "https://klausopaul.github.io/mytoolbox/learning-process-from-newbie-to-master.html",
+            "url": "https://klausopaul.github.io/mytoolbox/learning-process-from-newbie-to-master.html",
+            "title": "Learning process - from newbie to master",
+            "summary": "This image is not mine, but it is pretty descriptive. ",
+            "content_html": "<p>This image is not mine, but it is pretty descriptive.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/14/learning-process.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/14/responsive/learning-process-2xl.png 1600w\"  alt=\"\" width=\"2904\" height=\"2524\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Learning"
+            ],
+            "date_published": "2021-11-15T19:51:02-05:00",
+            "date_modified": "2021-11-15T19:51:02-05:00"
+        },
+        {
+            "id": "https://klausopaul.github.io/mytoolbox/how-a-ba-delivery-value.html",
+            "url": "https://klausopaul.github.io/mytoolbox/how-a-ba-delivery-value.html",
+            "title": "How a BA delivery value",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/13/how-ba-deliver-value.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-2xl.png 1600w\"  alt=\"\" width=\"1584\" height=\"822\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Business Analysis"
+            ],
+            "date_published": "2021-11-15T19:47:46-05:00",
+            "date_modified": "2021-11-15T19:47:46-05:00"
+        },
+        {
+            "id": "https://klausopaul.github.io/mytoolbox/ba-compass.html",
+            "url": "https://klausopaul.github.io/mytoolbox/ba-compass.html",
+            "title": "BA Compass",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/12/ba-compass.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-2xl.png 1600w\"  alt=\"\" width=\"1474\" height=\"1028\"></figure>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Business Analysis"
+            ],
+            "date_published": "2021-11-15T19:45:54-05:00",
+            "date_modified": "2021-11-15T19:45:54-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/agile-methodologies.html",
             "url": "https://klausopaul.github.io/mytoolbox/agile-methodologies.html",
             "title": "Agile methodologies and the different phases in software development",
@@ -18,7 +76,7 @@
                 "name": "Klaus"
             },
             "tags": [
-                   "agile"
+                   "Agile"
             ],
             "date_published": "2021-11-15T18:53:37-05:00",
             "date_modified": "2021-11-15T19:40:59-05:00"
@@ -33,7 +91,7 @@
                 "name": "Klaus"
             },
             "tags": [
-                   "business analysis"
+                   "Business Analysis"
             ],
             "date_published": "2021-11-15T18:50:07-05:00",
             "date_modified": "2021-11-15T18:50:07-05:00"
@@ -97,66 +155,6 @@
             ],
             "date_published": "2021-11-14T22:48:05-05:00",
             "date_modified": "2021-11-14T22:53:36-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/halt.html",
-            "url": "https://klausopaul.github.io/mytoolbox/halt.html",
-            "title": "Decision making - H.A.L.T.",
-            "summary": "Take a look at each of the letters below. If any apply, STOP before making any decision. ",
-            "content_html": "<p>Take a look at each of the letters below. If any apply, STOP before making any decision.</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 13.9653%;\">H</td>\n<td style=\"width: 86.0347%;\">Hungry</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">A</td>\n<td style=\"width: 86.0347%;\">Angry</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">L</td>\n<td style=\"width: 86.0347%;\">Lonely</td>\n</tr>\n<tr>\n<td style=\"width: 13.9653%;\">T</td>\n<td style=\"width: 86.0347%;\">Tired</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T22:46:21-05:00",
-            "date_modified": "2021-11-14T23:07:53-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/scarf.html",
-            "url": "https://klausopaul.github.io/mytoolbox/scarf.html",
-            "title": "Communication filters - S.C.A.R.F.",
-            "summary": "A good acronym to remember some things that can help when managing, communicating or collaborating with people. SCARF represents the different types of \"filters\" that happen when a message is sent across from one person to another (or to a group of persons). ",
-            "content_html": "<p>A good acronym to remember some things that can help when managing, communicating or collaborating with people.</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 14.11%;\">S</td>\n<td style=\"width: 85.89%;\">Status</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">C</td>\n<td style=\"width: 85.89%;\">Certainty</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">A</td>\n<td style=\"width: 85.89%;\">Autonomy</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">R</td>\n<td style=\"width: 85.89%;\">Relatedness</td>\n</tr>\n<tr>\n<td style=\"width: 14.11%;\">F</td>\n<td style=\"width: 85.89%;\">Fairness</td>\n</tr>\n</tbody>\n</table>\n<p>SCARF represents the different types of \"filters\" that happen when a message is sent across from one person to another (or to a group of persons).</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/4/SCARF-filter.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/4/responsive/SCARF-filter-2xl.png 1600w\"  alt=\"SCARF Filter\" width=\"341\" height=\"591\"></figure>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T22:37:54-05:00",
-            "date_modified": "2021-11-14T23:08:11-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/vuca.html",
-            "url": "https://klausopaul.github.io/mytoolbox/vuca.html",
-            "title": "Environment - V.U.C.A.",
-            "summary": "This is acronym to help you with managing the environment where you are working. In any working environment, 4 things happen: What can we do to mitigate V.U.C.A? Vision reduces volatility Risk management reduces uncertainty \"Chunking\" reduces the complexity to manageable sizes Clarity reduces the&hellip;",
-            "content_html": "<p>This is acronym to help you with managing the environment where you are working.</p>\n<p>In any working environment, 4 things happen:</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">V</td>\n<td style=\"width: 88.9291%; height: 49px;\">Volatile</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">U</td>\n<td style=\"width: 88.9291%; height: 49px;\">Uncertainty</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">C</td>\n<td style=\"width: 88.9291%; height: 49px;\">Complex</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 11.0709%; height: 49px;\">A</td>\n<td style=\"width: 88.9291%; height: 49px;\">Ambiguous</td>\n</tr>\n</tbody>\n</table>\n<p>What can we do to mitigate V.U.C.A?</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 37.8437%;\">Vision</td>\n<td style=\"width: 62.1563%;\">reduces volatility</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">Risk management</td>\n<td style=\"width: 62.1563%;\">reduces uncertainty</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">\"Chunking\"</td>\n<td style=\"width: 62.1563%;\">reduces the complexity to manageable sizes</td>\n</tr>\n<tr>\n<td style=\"width: 37.8437%;\">Clarity</td>\n<td style=\"width: 62.1563%;\">reduces the ambiguity</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T22:31:41-05:00",
-            "date_modified": "2021-11-14T23:08:26-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/great.html",
-            "url": "https://klausopaul.github.io/mytoolbox/great.html",
-            "title": "Effective meetings - G.R.E.A.T.",
-            "summary": "Here's another acronym to remember what makes for a great meeting. ",
-            "content_html": "<p>Here's another acronym to remember what makes for a <em>great</em> meeting.</p>\n<table style=\"border-collapse: collapse; width: 104.486%; height: 100%; border-style: none;\" border=\"1\" cellspacing=\"2px\">\n<tbody>\n<tr>\n<td style=\"width: 6.94668%;\">G</td>\n<td style=\"width: 27.6743%;\">GOAL</td>\n<td style=\"width: 67.0337%;\">Make decisions, mobilize people</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">R</td>\n<td style=\"width: 27.6743%;\">ROLES</td>\n<td style=\"width: 67.0337%;\">Who will be the time, the scriber, the devil's advocate</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">E</td>\n<td style=\"width: 27.6743%;\">EXPECTED OUTCOME</td>\n<td style=\"width: 67.0337%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">A</td>\n<td style=\"width: 27.6743%;\">AGENDA</td>\n<td style=\"width: 67.0337%;\">How to get (steps) to the outcome</td>\n</tr>\n<tr>\n<td style=\"width: 6.94668%;\">T</td>\n<td style=\"width: 27.6743%;\">TIME</td>\n<td style=\"width: 67.0337%;\">Realistic time to discus and achieve outcome</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Acronyms"
-            ],
-            "date_published": "2021-11-14T22:03:58-05:00",
-            "date_modified": "2021-11-14T23:08:40-05:00"
         }
     ]
 }
