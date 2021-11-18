@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/resources.html",
+            "url": "https://klausopaul.github.io/mytoolbox/resources.html",
+            "title": "Resources",
+            "summary": "Product management Product Management Tools by Roman Pichler KBP.Media: Just in time product ownership resources Agile, user stories, etc. Mountain Goat Software ",
+            "content_html": "<h2>Product management</h2>\n<ul>\n<li><a href=\"https://www.romanpichler.com/tools/\" target=\"_blank\" rel=\"noopener noreferrer\">Product Management Tools by Roman Pichler</a></li>\n<li><a href=\"https://www.kbp.media/\" target=\"_blank\" rel=\"noopener noreferrer\">KBP.Media: Just in time product ownership resources</a></li>\n</ul>\n<h2>Agile, user stories, etc.</h2>\n<ul>\n<li><a href=\"https://www.mountaingoatsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mountain Goat Software</a></li>\n</ul>",
+            "image": "https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Resources"
+            ],
+            "date_published": "2021-11-17T21:57:38-05:00",
+            "date_modified": "2021-11-17T22:11:06-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/traditional-software-development.html",
             "url": "https://klausopaul.github.io/mytoolbox/traditional-software-development.html",
             "title": "Traditional software development",
@@ -143,21 +159,6 @@
             ],
             "date_published": "2021-11-15T18:53:37-05:00",
             "date_modified": "2021-11-15T19:40:59-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html",
-            "url": "https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html",
-            "title": "Why do we create documentation?",
-            "summary": "Consider these points when documenting. The end goal: living documentation Why What When Where Who How How should the documentation be created? ",
-            "content_html": "<p>Consider these points when documenting. The end goal: living documentation</p>\n<p class=\"msg msg--highlight \">Why</p>\n<ul>\n<li>Why to document?</li>\n<li>How much does it cost to document?</li>\n</ul>\n<p class=\"msg msg--highlight \">What</p>\n<ul>\n<li>What kind of documentation is needed?\n<ul>\n<li>Tutorials</li>\n<li>Business rules</li>\n<li>User guides</li>\n<li>Functional</li>\n<li>Technical</li>\n<li>Business</li>\n</ul>\n</li>\n</ul>\n<p class=\"msg msg--highlight \">When</p>\n<ul>\n<li>When do we need to create the documentation?</li>\n</ul>\n<p class=\"msg msg--highlight \">Where</p>\n<ul>\n<li>Where do we store the documentation created?</li>\n</ul>\n<p class=\"msg msg--highlight \">Who</p>\n<ul>\n<li>Who creates the documentation?</li>\n<li>Who is the target audience?\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Different readers (stakeholders, for example) have different needs and may required distinct levels of detail.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p class=\"msg msg--highlight \">How</p>\n<ul>\n<li>How should the documentation be created?</li>\n</ul>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Business Analysis"
-            ],
-            "date_published": "2021-11-15T18:50:07-05:00",
-            "date_modified": "2021-11-15T18:50:07-05:00"
         }
     ]
 }

@@ -3,12 +3,43 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-15T20:05:23-05:00</updated>
+    <updated>2021-11-17T22:11:06-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Resources</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/resources.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/resources.html</id>
+            <category term="Resources"/>
+
+        <updated>2021-11-17T22:11:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg" alt="" />
+                    Product management Product Management Tools by Roman Pichler KBP.Media: Just in time product ownership resources Agile, user stories, etc. Mountain Goat Software 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg" alt="" />
+                <h2>Product management</h2>
+<ul>
+<li><a href="https://www.romanpichler.com/tools/" target="_blank" rel="noopener noreferrer">Product Management Tools by Roman Pichler</a></li>
+<li><a href="https://www.kbp.media/" target="_blank" rel="noopener noreferrer">KBP.Media: Just in time product ownership resources</a></li>
+</ul>
+<h2>Agile, user stories, etc.</h2>
+<ul>
+<li><a href="https://www.mountaingoatsoftware.com/" target="_blank" rel="noopener noreferrer">Mountain Goat Software</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Traditional software development</title>
         <author>
@@ -176,70 +207,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/11//agile-methodologies.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-2xl.png 1600w"  alt="" width="1874" height="760"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Why do we create documentation?</title>
-        <author>
-            <name>Klaus</name>
-        </author>
-        <link href="https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html"/>
-        <id>https://klausopaul.github.io/mytoolbox/why-do-we-create-documentation.html</id>
-            <category term="Business Analysis"/>
-
-        <updated>2021-11-15T18:50:07-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Consider these points when documenting. The end goal: living documentation Why What When Where Who How How should the documentation be created? 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Consider these points when documenting. The end goal: living documentation</p>
-<p class="msg msg--highlight ">Why</p>
-<ul>
-<li>Why to document?</li>
-<li>How much does it cost to document?</li>
-</ul>
-<p class="msg msg--highlight ">What</p>
-<ul>
-<li>What kind of documentation is needed?
-<ul>
-<li>Tutorials</li>
-<li>Business rules</li>
-<li>User guides</li>
-<li>Functional</li>
-<li>Technical</li>
-<li>Business</li>
-</ul>
-</li>
-</ul>
-<p class="msg msg--highlight ">When</p>
-<ul>
-<li>When do we need to create the documentation?</li>
-</ul>
-<p class="msg msg--highlight ">Where</p>
-<ul>
-<li>Where do we store the documentation created?</li>
-</ul>
-<p class="msg msg--highlight ">Who</p>
-<ul>
-<li>Who creates the documentation?</li>
-<li>Who is the target audience?
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li>Different readers (stakeholders, for example) have different needs and may required distinct levels of detail.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p class="msg msg--highlight ">How</p>
-<ul>
-<li>How should the documentation be created?</li>
-</ul>
             ]]>
         </content>
     </entry>
