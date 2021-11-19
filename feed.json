@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/resilient-traits.html",
+            "url": "https://klausopaul.github.io/mytoolbox/resilient-traits.html",
+            "title": "Resilient traits",
+            "summary": "Playful, childlike curiosity. Ask lots of questions, want to know how things work. Play with new developments. Enjoy themselves as children do. Have a good time almost anywhere. Wonder about things, experiment, make mistakes, get hurt, laugh. Ask: \"What is different now? What if I did&hellip;",
+            "content_html": "<p><strong>Playful, childlike curiosity.</strong> Ask lots of questions, want to know how things work. Play with new developments. Enjoy themselves as children do. Have a good time almost anywhere. Wonder about things, experiment, make mistakes, get hurt, laugh. Ask: \"What is different now? What if I did this? Who can answer my questions? What is funny about this?\"</p>\n<p><strong>Constantly learn from experience.</strong> Rapidly assimilate new or unexpected experiences and facilitate being changed by them. Ask \"What is the lesson here? What early clues did I ignore? The next time that happens I will....\"</p>\n<p><strong>Adapt quickly.</strong> Very mentally and emotionally flexible. Comfortable with contradictory personality qualities. Can be <em>both</em> strong and gentle, sensitive and tough, logical and intuitive, calm and emotional, serious and playful, and so forth. The more the better. Can think in negative ways to reach positive outcomes. \"What could go wrong, so it can be avoided?\"</p>\n<p><strong>Have solid self-esteem and self-confidence</strong>. Self-esteem is how you feel about yourself. It determines how much you learn after something goes wrong. It allows you to receive praise and compliments. It acts as a buffer against hurtful statements while being receptive to constructive criticism. \"I like, appreciate, and love myself....\"</p>\n<p><strong>Self-confidence is your reputation with yourself</strong>. It allows you to take risks without waiting for approval or reassurance from others. You expect to handle new situations well because on your past successes. \"These are my reliable strengths....\"</p>\n<p><strong>Have good friendships, loving relationships.</strong> Research shows that people in toxic working conditions are more stress resistant and are less likely to get sick when they have a loving family and good friendships. Loners are more vulnerable to distressing conditions. Talking with friends and family diminishes the impact of difficulties and increases feelings of self-worth and self-confidence.</p>\n<p><strong>Express feelings honestly</strong>. Experience and can express anger, love, dislike, appreciation, grief--the entire range of human emotions honestly and openly. Can also choose to suppress their feelings when they believe it would be best to do so.</p>\n<p><strong>Expect things to work out well.</strong> Deep optimism guided by internal values and standards. High tolerance for ambiguity and uncertainty. Can work without a job description, is a good role model of professionalism. Has a synergistic effect, brings stability to crises and chaos. Ask \"How can I interact with this so that things turn out well for all of us?\"</p>\n<p><strong>Read others with empathy.</strong> See things through the perspectives of others, even antagonists. Win/win/win attitude in conflicts. Ask \"What do others think and feel? What is it like to be them? How do they experience me? What is legitimate about what they feel, say, and do?\"</p>\n<p><strong>Use intuition, creative hunches.</strong> Accept subliminal perception and intuition as valid, useful sources of information. Ask \"What is my body telling me? Did that daydream mean anything? Why don't I believe what I'm being told? What if I did this?\"</p>\n<p><strong>Defend self well.</strong> Avoid and block attacks, fight back. See through and side-step cons, \"games,\" and manipulations that others attempt. Find allies, resources, and support.</p>\n<p><strong>Have a talent for serendipity.</strong> Learning lessons in the school of life is the antidote to feeling victimized. They can convert a situation that is emotionally toxic for others into something emotionally nutritious for them. They thrive in situations distressing to others because they learn good lessons from bad experiences. They convert misfortune into good luck and gain strength from adversity.</p>\n<p>A good indicator of exceptional mental health is when a person talking about a rough experience says \"I would never willingly go through anything like that again, but it was the one of best things that ever happened to me.\" Ask \"How can I turn this around? Why is it good that this happened? What is the gift?\"</p>\n<p><strong>Get better and better every decade.</strong> Become increasingly life competent, resilient, durable, playful, and free. Spend less time surviving than others and survive major adversities better. Enjoy life more and more.</p>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Learning"
+            ],
+            "date_published": "2021-11-18T20:06:34-05:00",
+            "date_modified": "2021-11-18T20:06:34-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/resources.html",
             "url": "https://klausopaul.github.io/mytoolbox/resources.html",
             "title": "Resources",
@@ -145,20 +160,6 @@
             ],
             "date_published": "2021-11-15T19:45:54-05:00",
             "date_modified": "2021-11-15T19:45:54-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/agile-methodologies.html",
-            "url": "https://klausopaul.github.io/mytoolbox/agile-methodologies.html",
-            "title": "Agile methodologies and the different phases in software development",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/11//agile-methodologies.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/11//responsive/agile-methodologies-2xl.png 1600w\"  alt=\"\" width=\"1874\" height=\"760\"></figure>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Agile"
-            ],
-            "date_published": "2021-11-15T18:53:37-05:00",
-            "date_modified": "2021-11-15T19:40:59-05:00"
         }
     ]
 }
