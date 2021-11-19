@@ -13,8 +13,8 @@
             "id": "https://klausopaul.github.io/mytoolbox/resources.html",
             "url": "https://klausopaul.github.io/mytoolbox/resources.html",
             "title": "Resources",
-            "summary": "Product management Product Management Tools by Roman Pichler KBP.Media: Just in time product ownership resources Agile, user stories, etc. Mountain Goat Software ",
-            "content_html": "<h2>Product management</h2>\n<ul>\n<li><a href=\"https://www.romanpichler.com/tools/\" target=\"_blank\" rel=\"noopener noreferrer\">Product Management Tools by Roman Pichler</a></li>\n<li><a href=\"https://www.kbp.media/\" target=\"_blank\" rel=\"noopener noreferrer\">KBP.Media: Just in time product ownership resources</a></li>\n</ul>\n<h2>Agile, user stories, etc.</h2>\n<ul>\n<li><a href=\"https://www.mountaingoatsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mountain Goat Software</a></li>\n</ul>",
+            "summary": "Product management Product Management Tools by Roman Pichler KBP.Media: Just in time product ownership resources Agile, user stories, etc. Mountain Goat Software Web development Tutorials | MDN (mozilla.org) ",
+            "content_html": "<h2>Product management</h2>\n<ul>\n<li><a href=\"https://www.romanpichler.com/tools/\" target=\"_blank\" rel=\"noopener noreferrer\">Product Management Tools by Roman Pichler</a></li>\n<li><a href=\"https://www.kbp.media/\" target=\"_blank\" rel=\"noopener noreferrer\">KBP.Media: Just in time product ownership resources</a></li>\n</ul>\n<h2>Agile, user stories, etc.</h2>\n<ul>\n<li><a href=\"https://www.mountaingoatsoftware.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mountain Goat Software</a></li>\n</ul>\n<h2>Web development</h2>\n<ul>\n<li><a href=\"https://developer.mozilla.org/en-US/docs/Web/Tutorials\">Tutorials | MDN (mozilla.org)</a></li>\n</ul>",
             "image": "https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg",
             "author": {
                 "name": "Klaus"
@@ -23,7 +23,7 @@
                    "Resources"
             ],
             "date_published": "2021-11-17T21:57:38-05:00",
-            "date_modified": "2021-11-17T22:11:06-05:00"
+            "date_modified": "2021-11-18T19:35:55-05:00"
         },
         {
             "id": "https://klausopaul.github.io/mytoolbox/traditional-software-development.html",
