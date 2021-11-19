@@ -3,7 +3,7 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-18T20:06:34-05:00</updated>
+    <updated>2021-11-18T20:08:10-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
@@ -52,7 +52,7 @@
         <id>https://klausopaul.github.io/mytoolbox/resources.html</id>
             <category term="Resources"/>
 
-        <updated>2021-11-18T19:35:55-05:00</updated>
+        <updated>2021-11-18T20:08:10-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg" alt="" />
@@ -73,7 +73,7 @@
 </ul>
 <h2>Web development</h2>
 <ul>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">Tutorials | MDN (mozilla.org)</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials" target="_blank" rel="noopener noreferrer">Tutorials | MDN (mozilla.org)</a></li>
 </ul>
             ]]>
         </content>
