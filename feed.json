@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://klausopaul.github.io/mytoolbox/quotes.html",
+            "url": "https://klausopaul.github.io/mytoolbox/quotes.html",
+            "title": "Quotes",
+            "summary": "\"Changing practices is one things. Changing minds is quite another\", Mike Cohn",
+            "content_html": "<p class=\"msg msg--info\">\"Changing practices is one things. Changing minds is quite another\", Mike Cohn</p>",
+            "author": {
+                "name": "Klaus"
+            },
+            "tags": [
+                   "Quotes"
+            ],
+            "date_published": "2021-11-23T17:32:59-05:00",
+            "date_modified": "2021-11-23T17:33:43-05:00"
+        },
+        {
             "id": "https://klausopaul.github.io/mytoolbox/resilient-traits.html",
             "url": "https://klausopaul.github.io/mytoolbox/resilient-traits.html",
             "title": "Resilient traits",
@@ -146,20 +161,6 @@
             ],
             "date_published": "2021-11-15T19:47:46-05:00",
             "date_modified": "2021-11-15T19:47:46-05:00"
-        },
-        {
-            "id": "https://klausopaul.github.io/mytoolbox/ba-compass.html",
-            "url": "https://klausopaul.github.io/mytoolbox/ba-compass.html",
-            "title": "BA Compass",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://klausopaul.github.io/mytoolbox/media/posts/12/ba-compass.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-2xl.png 1600w\"  alt=\"\" width=\"1474\" height=\"1028\"></figure>",
-            "author": {
-                "name": "Klaus"
-            },
-            "tags": [
-                   "Business Analysis"
-            ],
-            "date_published": "2021-11-15T19:45:54-05:00",
-            "date_modified": "2021-11-15T19:45:54-05:00"
         }
     ]
 }

@@ -3,12 +3,33 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-23T14:37:31-05:00</updated>
+    <updated>2021-11-23T17:33:43-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
     <id>https://klausopaul.github.io/mytoolbox</id>
 
+    <entry>
+        <title>Quotes</title>
+        <author>
+            <name>Klaus</name>
+        </author>
+        <link href="https://klausopaul.github.io/mytoolbox/quotes.html"/>
+        <id>https://klausopaul.github.io/mytoolbox/quotes.html</id>
+            <category term="Quotes"/>
+
+        <updated>2021-11-23T17:33:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    "Changing practices is one things. Changing minds is quite another", Mike Cohn
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info">"Changing practices is one things. Changing minds is quite another", Mike Cohn</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resilient traits</title>
         <author>
@@ -211,23 +232,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/13/how-ba-deliver-value.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/13/responsive/how-ba-deliver-value-2xl.png 1600w"  alt="" width="1584" height="822"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>BA Compass</title>
-        <author>
-            <name>Klaus</name>
-        </author>
-        <link href="https://klausopaul.github.io/mytoolbox/ba-compass.html"/>
-        <id>https://klausopaul.github.io/mytoolbox/ba-compass.html</id>
-            <category term="Business Analysis"/>
-
-        <updated>2021-11-15T19:45:54-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://klausopaul.github.io/mytoolbox/media/posts/12/ba-compass.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xs.png 300w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-sm.png 480w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-md.png 768w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-lg.png 1024w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-xl.png 1360w ,https://klausopaul.github.io/mytoolbox/media/posts/12/responsive/ba-compass-2xl.png 1600w"  alt="" width="1474" height="1028"></figure>
             ]]>
         </content>
     </entry>
