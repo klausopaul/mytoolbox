@@ -3,7 +3,7 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-23T17:33:43-05:00</updated>
+    <updated>2021-11-26T13:52:53-05:00</updated>
     <author>
         <name>Klaus</name>
     </author>
@@ -18,15 +18,17 @@
         <id>https://klausopaul.github.io/mytoolbox/quotes.html</id>
             <category term="Quotes"/>
 
-        <updated>2021-11-23T17:33:43-05:00</updated>
+        <updated>2021-11-26T13:52:53-05:00</updated>
             <summary>
                 <![CDATA[
-                    "Changing practices is one things. Changing minds is quite another", Mike Cohn
+                    "Changing practices is one things. Changing minds is quite another", Mike Cohn "We don't need an accurate document. We need a shared understanding", Jeff Patton "However beautiful the strategy, you should occasionally look at the results", Sir Winston Churchill
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--info">"Changing practices is one things. Changing minds is quite another", Mike Cohn</p>
+<p class="msg msg--info">"We don't need an accurate document. We need a shared understanding", Jeff Patton</p>
+<p class="msg msg--info">"However beautiful the strategy, you should occasionally look at the results", Sir Winston Churchill</p>
             ]]>
         </content>
     </entry>
