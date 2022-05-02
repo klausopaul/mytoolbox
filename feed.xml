@@ -3,7 +3,7 @@
     <title>My Toolbox</title>
     <link href="https://klausopaul.github.io/mytoolbox/feed.xml" rel="self" />
     <link href="https://klausopaul.github.io/mytoolbox" />
-    <updated>2021-11-26T13:52:53-05:00</updated>
+    <updated>2022-05-01T23:02:49-04:00</updated>
     <author>
         <name>Klaus</name>
     </author>
@@ -18,14 +18,16 @@
         <id>https://klausopaul.github.io/mytoolbox/quotes.html</id>
             <category term="Quotes"/>
 
-        <updated>2021-11-26T13:52:53-05:00</updated>
+        <updated>2022-05-01T22:54:42-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://klausopaul.github.io/mytoolbox/media/posts/22/20090405-PHIL0111.jpeg" alt="" />
                     "Changing practices is one things. Changing minds is quite another", Mike Cohn "We don't need an accurate document. We need a shared understanding", Jeff Patton "However beautiful the strategy, you should occasionally look at the results", Sir Winston Churchill
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://klausopaul.github.io/mytoolbox/media/posts/22/20090405-PHIL0111.jpeg" alt="" />
                 <p class="msg msg--info">"Changing practices is one things. Changing minds is quite another", Mike Cohn</p>
 <p class="msg msg--info">"We don't need an accurate document. We need a shared understanding", Jeff Patton</p>
 <p class="msg msg--info">"However beautiful the strategy, you should occasionally look at the results", Sir Winston Churchill</p>
@@ -75,16 +77,16 @@
         <id>https://klausopaul.github.io/mytoolbox/resources.html</id>
             <category term="Resources"/>
 
-        <updated>2021-11-18T20:08:10-05:00</updated>
+        <updated>2022-05-01T23:02:49-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg" alt="" />
+                        <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/dark-web-myths.jpeg" alt="" />
                     Product management Product Management Tools by Roman Pichler KBP.Media: Just in time product ownership resources Agile, user stories, etc. Mountain Goat Software Web development Tutorials | MDN (mozilla.org) 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/Resources-Button-2.jpg" alt="" />
+                    <img src="https://klausopaul.github.io/mytoolbox/media/posts/20/dark-web-myths.jpeg" alt="" />
                 <h2>Product management</h2>
 <ul>
 <li><a href="https://www.romanpichler.com/tools/" target="_blank" rel="noopener noreferrer">Product Management Tools by Roman Pichler</a></li>
